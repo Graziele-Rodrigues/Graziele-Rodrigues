@@ -13,13 +13,11 @@
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=FFE873%22">
   <img align="center" alt="PostegreSQL" src="https://img.shields.io/badge/postgreSQL-0E76A8?style=for-the-badge&logo=postgreSQL&logoColor=white" />
+   <img align="center" alt="Linguagem c" src="https://img.shields.io/badge/Linguagem C-092E20?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-0E76A8?style=for-the-badge&logo=arduino logoColor=white%22"/>
-    <img align="center" alt="Linguagem c" src="https://img.shields.io/badge/Linguagem C-092E20?style=for-the-badge&logo=c&logoColor=white" />
-
-  
 
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, educação, embarcados e por mudar a vida das pessoas através da programação.
 
 
