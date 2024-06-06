@@ -1,4 +1,4 @@
-## Olá! Eu sou a Graziele Rodrigues  🖐️ [![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graziele--rodrigues/)
+## Olá! Eu sou a Graziele Rodrigues  [![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graziele--rodrigues/)
 
 
 
