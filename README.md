@@ -6,11 +6,6 @@ Graduanda de Engenharia de Computação | Desenvolvedora de Software Embarcado |
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graziele--rodrigues/)
 
-![Graziele Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=Graziele-Rodrigues&show_icons=true&theme=dracula&count_private=true)
-
-![Graziele Rodrigues GitHub top langs](https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=Graziele-Rodrigues&layout=compact&langs_count=8&theme=onedark)
-
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -21,8 +16,12 @@ Graduanda de Engenharia de Computação | Desenvolvedora de Software Embarcado |
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
 </div><br/>
+
+![Graziele Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=Graziele-Rodrigues&show_icons=true&theme=dracula&count_private=true)
+
+![Graziele Rodrigues GitHub top langs](https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=Graziele-Rodrigues&layout=compact&langs_count=8&theme=onedark)
+
 
 
 
