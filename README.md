@@ -1,10 +1,15 @@
-## Olá! Eu sou a Graziele Rodrigues  [![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graziele--rodrigues/)
+## Olá! Eu sou a Graziele Rodrigues 🙋‍♀️
 
+Graduanda de Engenharia de Computação | Desenvolvedora de Software Embarcado | Entusiasta em Ciência de Dados 
 
+## contato
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graziele--rodrigues/)
 
 ![Graziele Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=Graziele-Rodrigues&show_icons=true&theme=dracula&count_private=true)
 
-Graduanda de Engenharia de Computação | Desenvolvedora de Software Embarcado | Entusiasta em Ciência de Dados 
+![Graziele Rodrigues GitHub top langs](https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=Graziele-Rodrigues&layout=compact&langs_count=8&theme=onedark)
+
 
 ## Tecnologias que eu uso no meu dia
 
